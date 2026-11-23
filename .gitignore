@@ -48,3 +48,16 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+
+#specific files associated with the pre-processing/raw data
+rawData/
+scripts-analysis/1_import-data.R
+processed-data/
+2_data-tidy.R
+figures/
+sample-info/
+models/
+
+
+
